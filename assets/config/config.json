@@ -4,7 +4,7 @@
     },
     "apiEndpoints": {
         "users": "https://gatekeeping.herokuapp.com/users",
-        "deleteUser":"https://gatekeeping.herokuapp.com/usersdeleteUser",
-        "updateUser":"https://gatekeeping.herokuapp.com/usersupdateUser"
+        "deleteUser":"https://gatekeeping.herokuapp.com/users/deleteUser",
+        "updateUser":"https://gatekeeping.herokuapp.com/users/updateUser"
     }
 }
