@@ -1,0 +1,10 @@
+{
+    "env": {
+        "name": "DEV" 
+    },
+    "apiEndpoints": {
+        "users": "http://localhost:3000/users",
+        "deleteUser":"http://localhost:3000/users/deleteUser",
+        "updateUser":"http://localhost:3000/users/updateUser"
+    }
+}

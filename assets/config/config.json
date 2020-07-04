@@ -1,0 +1,10 @@
+{
+    "env": {
+        "name": "PROD" 
+    },
+    "apiEndpoints": {
+        "users": "https://gatekeeping.herokuapp.com/users",
+        "deleteUser":"https://gatekeeping.herokuapp.com/usersdeleteUser",
+        "updateUser":"https://gatekeeping.herokuapp.com/usersupdateUser"
+    }
+}
